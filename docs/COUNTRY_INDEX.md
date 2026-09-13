@@ -1,6 +1,6 @@
 # 国家与地区索引
 
-共 123 个国家与地区，426 座城市。
+共 123 个国家与地区，436 座城市。
 
 | 国家 / 地区 | 英文名 | 首都 / 首府 | 城市数 |
 |---|---|---|---|
@@ -32,9 +32,9 @@
 | [东瀛](countries/japan.md) | Touei | 京都 | 14 |
 | [多哥](countries/togo.md) | Togo | 朱古 | 1 |
 | [恩东戈](countries/angola.md) | Ndongo | 罗安达 | 1 |
-| [泛南联邦](countries/polar.md) | Commonwealth Pan-Australis Polaris | 茹兰市 | 11 |
+| [泛南联邦](countries/polar.md) | Commonwealth Pan-Australis Polaris | 茹兰市 | 15 |
 | [斐济](countries/preset-FJI-178--18.md) | Fiji | 苏瓦 | 1 |
-| [佛朗察](countries/france.md) | France | 巴黎 | 5 |
+| [佛朗察](countries/france.md) | France | 巴黎 | 8 |
 | [高丽](countries/korea.md) | Goryeo | 平壤 | 3 |
 | [高棉](countries/cambodia.md) | Khmer | 金边 | 1 |
 | [哥斯达黎加](countries/preset-island--83-10.md) | Costa Rica | 圣荷西 | 1 |
@@ -53,7 +53,7 @@
 | [库斯卡特兰](countries/preset-SLV--88-14.md) | Cuscatlan | 圣萨尔瓦多 | 1 |
 | [拉普拉塔](countries/laplata.md) | La Plata | 布宜诺斯艾利斯 | 12 |
 | [利比亚](countries/libya.md) | Libya | 的黎波里 | 1 |
-| [联合王国](countries/britain.md) | United Kingdom of Anglia and Hibernia | 伦敦 | 5 |
+| [联合王国](countries/britain.md) | United Kingdom of Anglia and Hibernia | 伦敦 | 8 |
 | [寮](countries/laos.md) | Lao | 万象 | 1 |
 | [琉球](countries/preset-island-128-26.md) | Ryukyu | 那霸 | 1 |
 | [露西亚](countries/russia.md) | Rossiya | 莫斯科 | 24 |
