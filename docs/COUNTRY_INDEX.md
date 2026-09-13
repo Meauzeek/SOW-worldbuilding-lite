@@ -1,6 +1,6 @@
 # 国家与地区索引
 
-共 123 个国家与地区，436 座城市。
+共 123 个国家与地区，437 座城市。
 
 | 国家 / 地区 | 英文名 | 首都 / 首府 | 城市数 |
 |---|---|---|---|
@@ -85,7 +85,7 @@
 | [塞内冈比亚](countries/senegal.md) | Senegambia | 达喀尔 | 2 |
 | [桑给巴尔](countries/preset-island-40--6.md) | Zanzibar | 桑给巴尔城 | 1 |
 | [上沃尔特](countries/volta.md) | Upper Volta | 瓦加杜古 | 1 |
-| [宋国](countries/song.md) | Sinoterre | 大都 | 68 |
+| [宋国](countries/song.md) | Sinoterre | 大都 | 69 |
 | [苏丹](countries/sudan.md) | Sudan | 喀土穆 | 1 |
 | [苏里南](countries/preset-SUR--55-4.md) | Suriname | 帕拉马里博 | 1 |
 | [所罗门联邦](countries/preset-SLB-162--11.md) | Solomon Federation | 霍尼亚拉 | 1 |

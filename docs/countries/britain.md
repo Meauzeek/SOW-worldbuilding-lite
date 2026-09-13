@@ -48,6 +48,11 @@
 - 人口（人）：876000
 - GDP（亿美元）：109.0
 - 管辖类型：ordinary
+- 星标依据：全球时局图角色档案
+- 关联角色：帕弗尼丝·埃尔芮欧 · 籍贯 · 氟(F)元素使。利物浦人。 · 来源：https://meauzeek.github.io/SOW/SOW_global_map.html
+- 关联角色：黛比·奥芬·特里丝卓 · 籍贯 · 碲(Te)元素使。利物浦人。 · 来源：https://meauzeek.github.io/SOW/SOW_global_map.html
+- 关联角色：阿尔西亚·埃尔芮欧 · 籍贯 · 钒(V)元素使。利物浦人。 · 来源：https://meauzeek.github.io/SOW/SOW_global_map.html
+- 关联角色：阿珂由丝·西莉丝缇欧 · 籍贯 · 氢(H)元素使。利物浦人。 · 来源：https://meauzeek.github.io/SOW/SOW_global_map.html
 - 坐标（经度、纬度）：[-2.9779, 53.4084]
 - 小说重要地点：是
 - 计入国家汇总：是
@@ -78,6 +83,8 @@
 - 现实原型：Inverness
 - 人口（人）：45158
 - GDP（亿美元）：5.77
+- 星标依据：全球时局图角色档案
+- 关联角色：埃尔芮欧家族 · 祖籍 · 埃尔芮欧家族的祖籍地：苏格兰，因弗内斯。 · 来源：https://meauzeek.github.io/SOW/SOW_global_map.html
 - 坐标（经度、纬度）：[-4.233266, 57.467124]
 - 小说重要地点：是
 - 计入国家汇总：是
@@ -92,6 +99,8 @@
 - 现实原型：Oxford
 - 人口（人）：192796
 - GDP（亿美元）：24.64
+- 星标依据：全球时局图角色档案
+- 关联角色：艾斯克雷尔斯·埃尔芮欧 · 工作 · 代号AA。非元素使，帕弗尼丝的哥哥，牛津大学理论物理学者。 · 来源：https://meauzeek.github.io/SOW/SOW_global_map.html
 - 坐标（经度、纬度）：[-1.248076, 51.751828]
 - 小说重要地点：是
 - 计入国家汇总：是

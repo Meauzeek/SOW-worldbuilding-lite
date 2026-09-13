@@ -20,6 +20,9 @@ for c in countries:
   lines += [f"### {city['name']}",'',f"记录 ID：`{city['id']}`",'']
   for key,label in [('englishName','英文 / 外文名'),('localName','本地名称'),('localLanguage','语言'),('realName','现实原型'),('population','人口（人）'),('gdpHundredMillionUSD','GDP（亿美元）'),('polityType','管辖类型')]:
    if city.get(key) is not None:lines.append(f"- {label}：{text(city[key])}")
+  if city.get('nameEtymology'):lines.append('- 名称由来：'+text(city['nameEtymology']))
+  if city.get('featuredReason'):lines.append('- 星标依据：'+text(city['featuredReason']))
+  for link in city.get('relatedCharacters',[]):lines.append('- 关联角色：'+text(link['name'])+' · '+text(link.get('relation',''))+' · '+text(link.get('notes',''))+' · 来源：'+text(link.get('source','')))
   lines.append('- 坐标（经度、纬度）：'+text(city['coordinates']))
   if city.get('capital'):lines.append('- 首都 / 首府：'+('地区首府' if city.get('capitalRole')=='regional' else '是'))
   if city.get('hostCountryId'):lines.append('- 地理所在国家：'+names.get(city['hostCountryId'],city['hostCountryId']))
